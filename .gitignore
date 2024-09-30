@@ -1,2 +1,2 @@
-./flaskr-tdd/env/
-./flaskr-tdd/test.db
+flaskr-tdd/env/
+flaskr-tdd/test.db
