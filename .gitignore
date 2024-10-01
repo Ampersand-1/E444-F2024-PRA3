@@ -1,2 +1,4 @@
 env/
 test.db
+project/__pycache__
+tests/__pycache__
